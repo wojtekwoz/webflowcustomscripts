@@ -1,3 +1,5 @@
+/*Upgraded Advanced Form code. Credits to: Alex Iglesias - https://webflow.com/alexiglesias*/
+
 (function() {
     function oa(a) {
         Object.defineProperty(a, "__esModule", {
