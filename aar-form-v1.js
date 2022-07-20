@@ -465,12 +465,12 @@
             }, {
                 key: "disableElement",
                 value: function(e) {
-                    e && e.classList.add("is--btn-off")
+                    e && e.classList.add("redborder")
                 }
             }, {
                 key: "enableElement",
                 value: function(e) {
-                    e && e.classList.remove("is--btn-off")
+                    e && e.classList.remove("redborder")
                 }
             }, {
                 key: "disableButtons",
