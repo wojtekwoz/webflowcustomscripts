@@ -1,4 +1,4 @@
-/*Upgraded Advanced Form code. Credits to: Alex Iglesias - https://webflow.com/alexiglesias*/
+/*Upgraded Advanced Form code. Credits to: Alex Iglesias - https://webflow.com/alexiglesias */
 
 (function() {
     function oa(a) {
@@ -957,10 +957,10 @@
                                         r.hideInput(e, o, c);
                                         break;
                                     case "enable":
-                                        r.enableInput(e, l);
+                                        r.enableElement(e, l);
                                         break;
                                     case "disable":
-                                        r.disableInput(e, l);
+                                        r.disableElement(e, l);
                                         break;
                                     case "require":
                                         r.requireInput(e, l);
